@@ -1,0 +1,11 @@
+
+# Ignore all CSV datasets
+*.csv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.venv/
